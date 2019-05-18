@@ -1,0 +1,1 @@
+[抽象工厂参考](https://www.jianshu.com/p/42f6cbd29e76)
